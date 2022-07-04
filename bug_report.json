@@ -1,6 +1,6 @@
 {
   "Bug_ID": "00",
-  "Summary: "Заголовок",
+  "Title": "Заголовок",
   "Precondition": "Предусловия",
   "Environment": "Браузеры, устройства",
   "Severity": [
