@@ -1,7 +1,7 @@
 {
-"first_name":"Volha",
-"last_name":"Voranava",
-"age":32,
-"numderOfPets":1,
-"desired_salary":40000
+    "first_name":"Volha",
+    "last_name":"Voranava",
+    "age":32,
+    "numderOfPets":1,
+    "desired_salary":40000
 }
