@@ -1,0 +1,8 @@
+{
+	"01": "Basic theory",
+	"02": "Linux command line (terminal)",
+	"03": "Git",
+	"04": "Postman",
+	"05": "JavaScript"
+	"06": "To be continued..."
+}
