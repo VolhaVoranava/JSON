@@ -1,1 +1,26 @@
-
+{
+  "Bug_ID": "00",
+  "Summary: "Заголовок",
+  "Precondition": "Предусловия",
+  "Environment": "Браузеры, устройства",
+  "Severity": [
+    {
+       "bug": "Blocker",
+       "bug": "Critical",
+       "bug": "Major",
+       "bug": "Normal",
+       "bug": "Minor"
+    }
+  ],
+  "Priority": [
+    {
+        "bug": "High", 
+        "bug": "Medium",
+        "bug": "Low"
+    }
+  ],  
+  "Steps to reproduce": "Шаги воспроизведения",
+  "Actual result": "Фактический результат",
+  "Expected result": "Ожидаемый результат",
+  "Attachment": "Скриншот/Видео/Ссылка на скриншот или видео"
+}
